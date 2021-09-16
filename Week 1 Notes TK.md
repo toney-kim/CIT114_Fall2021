@@ -2,7 +2,12 @@
 ## Here are some important things I learned in Week 1
 
 ### 1. Summarize a few key points made in the reading or videos.
-#### The Four Pillars of an IT Framework
+
+#### 1.3 Hardware vs Software
+Hardware includes all physcial assets of an information technology system
+Software encompasses all the data, application code and programs stored digitally
+
+#### 1.4 The Four Pillars of an IT Framework
 1. Infrastructure
 2. Development
 3. Security
