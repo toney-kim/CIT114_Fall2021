@@ -31,6 +31,6 @@ Types of IT infrastructure are:
 
 ##4. What questions remain in your mind after reading this section?
 
-4.26: Support Plan Features & Prices: 
+4.26: Support Plan Features & Prices : 
 When is it worth it to purchase a support plan?
 
