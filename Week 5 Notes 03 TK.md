@@ -1,3 +1,5 @@
+Week 5 has not been published on Canvas
+
 # Notes 03: Cloud Global Infrastructure
 ## Summarize a few key points made in the readings or videos.
 
