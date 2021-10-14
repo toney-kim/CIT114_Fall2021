@@ -2,6 +2,8 @@
 
 ## Summarize a few key points made in the readings or videos.
 
+Section 6.01: What is Cyber Security?
+
 Cybersecurity best practices are:
 - Keep software up to date
 - Run up-to-date antivirus software
@@ -16,12 +18,12 @@ Cybersecurity best practices are:
 1. Section 6.04: AWS Shared Responsibility Model
 While the cloud infrastructure is secured and maintained by AWS, customers are responsible for security of everything they put in the cloud.
 
-2. SEction 6.13: SEcuring Data
+2. Section 6.13: Securing Data
 Careful consideration must be taken when protecting data as it is often worth more than the hardware it is stored on.
 
 ## What new facts did you learn from this section?
 
-6.12 SEcuring Accounts
+Section 6.12 Securing Accounts
 AWS Organizations
 AWS Key Management Service (KMS)
 Amazon Cognito
