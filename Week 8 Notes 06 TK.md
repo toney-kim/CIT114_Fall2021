@@ -16,6 +16,7 @@ Section: 8.06 Introduction to EC2
 
 ## What new facts did you learn from this section?
 Section:8.07 EC2 Instance Types
+
 The first letter T is the family name of the instance type, the famly name
 The number after the letter is the generation number, so a T3 is the third generation in the T family
 The last part after the period, is the size of the instance, which is a large
