@@ -26,4 +26,4 @@ Graph DBs contain nodes that represent entities and edges that represent relatio
 
 ## What questions remain in your mind after reading this section?
 
-As technology becomes bigger, faster and cheaper, will there be a great difference in benefits between relationa and non relational databases for smaller applications. 
+As technology becomes bigger, faster and cheaper, will there be a great difference in benefits between relational and non relational databases for smaller applications. 
