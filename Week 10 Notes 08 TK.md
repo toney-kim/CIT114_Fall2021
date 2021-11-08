@@ -1,4 +1,4 @@
-### Notes 08: Databases
+# Notes 08: Databases
 
 ## Summarize a few key points made in the readings or videos.
 
