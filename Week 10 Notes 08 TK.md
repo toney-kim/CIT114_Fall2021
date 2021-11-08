@@ -12,11 +12,13 @@ Amazon DynamoDB is a fully managed key-value and document NoSQL database service
 
 10.04 Non-relational Databases
 NoSQL databases offer enterprises important advantages over traditional RDBMS
+
 Interesting how databases are still evolving.
 
 10.08 Amazon Relational Database Service (RDS)
 Do not use Amazon RDS when your application requires:
 Massive read/write rates (for example 150,000 writes per second
+
 Interesting, that 150,000 writes per a second is the maximum for relational databases.
 
 ## Outline the new facts that you learned from this section?
