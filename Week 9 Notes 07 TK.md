@@ -1,4 +1,4 @@
-### Notes 07: Storage
+# Notes 07: Storage
 
 ## Summarize a few key points made in the readings or videos.
 
