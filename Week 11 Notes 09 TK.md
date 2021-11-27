@@ -1,4 +1,4 @@
-### Notes 09: Cloud Architecture
+# Notes 09: Cloud Architecture
 
 ## Summarize a few key points made in the readings or videos.
 
