@@ -15,7 +15,7 @@
 
 
 5. How many hours of service does the free-tier of EC2 provide during a billing cycle?
-
+750 hours per a month
 
 6. What is the minimum size subnet you can have in an Amazon VPC?
 
@@ -27,6 +27,7 @@
 
 
 9. Let's say our storage requirement allows for a delayed retrieval of data (ie. medical records from ex-patients). Which S3 feature should we choose?
-
+The glacia feature is good for long term storage.
 
 10. List and briefly describe the four basic database commands.
+CRUD, create, read, update, delete or insert, select, update, delete. Insert creates or adds new data to the database. Select reads from the database. Update modifies data in the database. Delete removes data from the database.
