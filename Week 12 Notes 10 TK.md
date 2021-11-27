@@ -1,4 +1,4 @@
-### Notes 10: Automatic Scaling & Monitoring
+# Notes 10: Automatic Scaling & Monitoring
 
 ## Summarize a few key points made in the readings or videos.
 
