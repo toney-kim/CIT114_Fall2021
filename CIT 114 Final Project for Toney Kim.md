@@ -1,4 +1,6 @@
 ## A URL to the index.html page within your S3 bucket.
+http://toney.kim.cit114.finalproject.s3-website-us-east-1.amazonaws.com/
+
 
 ## Knowledge Questions
 1. What are the advantages of cloud computing over on-premises?
