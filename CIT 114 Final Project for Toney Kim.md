@@ -4,17 +4,26 @@ http://toney.kim.cit114.finalproject.s3-website-us-east-1.amazonaws.com/
 
 ## Knowledge Questions
 1. What are the advantages of cloud computing over on-premises?
-
+Cost, Speed of Setup, Scaling
 
 2. Given setup instructions above, give examples of three different businesses that might begin with this setup.
      Example: An online car sales service may use EC2 to power it's website, a VPC to allow its employees to connect, and the RDS to store its inventory of vehicles.
 
+Ecommerce Store may use EC2 to power it's website, the AWS database can store the data
+
+Online Magazine may use S3 to power it's website, the S3 can store the images and html code.
+
+Internt Forum may use EC2 to power it's website, the AWS database to store the data, VPC to route to the internet.
 
 3. If we wanted to keep a close eye on how much the services were costing, which AWS service would we make use of?
 
+AWS Cost Explorer  https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
+
+AWS Billing  https://aws.amazon.com/aws-cost-management/aws-billing/
 
 4. We need to choose a support plan for the system we set up. What are four different support plans offered by AWS?
 
+Developer, Business, Enterprise-On-Ramp, Enterprise
 
 5. How many hours of service does the free-tier of EC2 provide during a billing cycle?
 750 hours per a month
