@@ -219,6 +219,46 @@
 
 ## 7. Storage
 
+9.01 What is Storage?
+
+9.02 Disaster Recovery and Technology
+
+9.03 Storage in the Enterprise
+
+9.04 Storage in the Cloud
+
+9.05 Encrypting Storage
+
+9.06 Data Backups
+
+9.07 Backup Locations
+
+9.08 What are the core AWS Storage Services
+
+9.09 Amazon Simple Storage Service (Amazon S3)
+
+9.10 Amazon S3 Glacier
+
+9.11 Amazon Elastic File System (Amazon EFS)
+
+9.12 Amazon Elastic Block Store (Amazon EBS)
+
+9.13 Introduction to Static Web Hosting
+
+9.14 Create Buckets For Your Website
+
+9.15 Configure Your Root Domain Website Bucket
+
+9.16 Enable Logging For Your Website
+
+9.17 Configure Your Root Bucket As A Website
+
+9.18 Upload Website Content
+
+9.19 Enable www Bucket Redirection
+
+9.20 Test Your Website
+
 ## 8. Databases
 
 ## 9. Cloud Architecture
