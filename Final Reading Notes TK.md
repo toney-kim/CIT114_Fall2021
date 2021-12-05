@@ -3,9 +3,7 @@
 ## 1. Cloud Concepts Overview
 
 2.1 A Brief History
-
 2.2 Business Drivers
-
 2.3 Concepts and Terminology
 
 2.4 Goals and Benefits
