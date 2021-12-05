@@ -92,7 +92,42 @@
 
 ## 3. Cloud Global Infrastructure
 
+
+
+
 ## 4. Cloud Security
+
+6.01 What is Cyber Security?
+
+6.02 Professor Messer: Confidentiality, Integrity, Availability, and Safety (Video)
+
+6.03 Introduction to AWS Security
+
+6.04 AWS Shared Responsibility Model
+
+6.05 AWS Security Best Practices
+
+6.06 Introduction to IAM
+
+6.07 Features of IAM
+
+6.08 Essential Elements of IAM
+
+6.09 Four Ways to use IAM
+
+6.10 Creating an IAM User
+
+6.11 Using the IAM User
+
+6.12 Securing Accounts
+
+6.13 Securing Data
+
+6.14 Ensuring Compliance
+
+6.15 Additional Security Services
+
+6.16 Chapter 1 from Securing DevOps
 
 ## 5. Networking & Content Delivery
 
