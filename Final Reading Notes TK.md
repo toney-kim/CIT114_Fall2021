@@ -287,4 +287,14 @@
 
 ## 9. Cloud Architecture
 
+11.01 Well Architected Framework
+
+11.02 Reliability
+
+11.03 Availability
+
+11.04 AWS Well-Architected Tool
+
+11.05 AWS Trusted Advisor
+
 ## 10. Automatic Scaling & Monitoring
