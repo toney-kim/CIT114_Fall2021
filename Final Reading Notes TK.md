@@ -261,6 +261,30 @@
 
 ## 8. Databases
 
+10.01 What is a Database?
+
+10.02 Characteristics and Benefits of a Database
+
+10.03 Relational Databases
+
+10.04 Non-relational Databases
+
+10.05 Query for Data
+
+10.06 Managed vs Unmanaged
+
+10.07 Choosing the Right Database Solution
+
+10.08 Amazon Relational Database Service (RDS)
+
+10.09 Amazon RDS as a Managed Service
+
+10.10 Amazon DynamoDB
+
+10.11 Amazon Redshift
+
+10.12 Amazon Aurora
+
 ## 9. Cloud Architecture
 
 ## 10. Automatic Scaling & Monitoring
