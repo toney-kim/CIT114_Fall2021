@@ -179,6 +179,44 @@
 
 ## 6. Compute
 
+8.01 What is an Operating System?
+
+8.02 Available Operating Systems at AWS
+
+8.03 AWS Compute Services
+
+8.04 Choosing the Right Service
+
+8.05 What are Virtual Machines?
+
+8.06 Introduction to EC2
+
+8.07 EC2 Instance Types
+
+8.08 Amazon Machine Images (AMI)
+
+8.09 EC2 Pricing
+
+8.10 Four Pillars of Cost Optimization
+
+8.11 What are Containers?
+
+8.12 What are Docker and Kubernetes?
+
+8.13 Containers vs Virtual Machines
+
+8.14 AWS Container Services
+
+8.15 What is Serverless Computing?
+
+8.16 AWS Lambda
+
+8.17 What is Platform as a Service (PaaS)?
+
+8.18 AWS Elastic Beanstalk
+
+8.19 Launch an EC2 Instance
+
 ## 7. Storage
 
 ## 8. Databases
