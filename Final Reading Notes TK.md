@@ -319,3 +319,5 @@
 11.05 AWS Trusted Advisor
 
 ## 10. Automatic Scaling & Monitoring
+
+Chapter 5 - Planning for Scale and Resiliency
