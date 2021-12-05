@@ -92,8 +92,29 @@
 
 ## 3. Cloud Global Infrastructure
 
+15.01 Computing With AWS (Video)
 
+15.02 AWS Global Infrastructure Terminology
 
+15.03 AWS Global Infrastructure Overview
+
+15.04 Regions and Availability Zones
+
+15.05 Selecting the Best Region
+
+15.06 Points of Presence & Local Zones
+
+15.07 Data Center Concepts
+
+15.08 Inside a Google Data Center (Video)
+
+15.08b Google Data Center Security (Video)
+
+15.09 Remembering Regions, Availability Zones, & Edge Locations
+
+15.10 AWS Foundational Services
+
+15.11 Categories of Service
 
 ## 4. Cloud Security
 
