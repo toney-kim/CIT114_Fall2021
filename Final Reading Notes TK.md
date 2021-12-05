@@ -5,9 +5,7 @@
 2.1 A Brief History
 2.2 Business Drivers
 2.3 Concepts and Terminology
-
 2.4 Goals and Benefits
-
 2.5 Risks and Challenges
 
 2.6 From Google's Perspective
